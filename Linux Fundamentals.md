@@ -207,7 +207,20 @@
   - cat file1 file2 file3 > file4 
   - split file4
   - e.g. split -l 300 file.txt childfile
-- Split file.txt into 300 lines per file and output to `childfilea`, `childfileb` and `childfilec`
+- Split file.txt into 300 lines per file and output to `childfilea`, `childfileb`  and `childfilec`
+
+
+### Linux VS. Windows Commands
+
+
+
+
+
+
+
+
+
+
 
 
 
